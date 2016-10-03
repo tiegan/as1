@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">tiegan-HabitTracker</string>
+    <string name="welcome"><b>Welcome to your habit tracker!</b></string>
+    <string name="add_habit">Add Habit</string>
+    <string name="view_habits">View Habits</string>
+    <string name="delete_habits">Delete Habits</string>
+
+    <string name="confirm"><b>Are you sure you want to delete all habits?</b></string>
+    <string name="confirm_delete">Yes</string>
+    <string name="cancel_delete">No</string>
+
+    <string name="habit_name"><b>Habit Name:</b></string>
+    <string name="add_name">Add a name</string>
+    <string name="new_line">\n</string>
+    <string name="select_date">Select the date</string>
+    <string name="date_selected"></string>
+    <string name="select_days">Select the days the habit will be completed on</string>
+    <string name="days_selected"></string>
+    <string name="done">Done</string>
+
+    <string name="habit_view_name"><b>Habit Name</b></string>
+    <string name="habit_view_display_name"></string>
+    <string name="habit_view_date"><b>\nDate:</b></string>
+    <string name="habit_view_display_date"></string>
+    <string name="habit_view_days"><b>\nDays habit is on:</b></string>
+    <string name="habit_view_display_days"></string>
+    <string name="habit_view_count"><b>\nCount:</b></string>
+    <string name="habit_view_display_count"></string>
+    <string name="habit_view_completion"><b>\nHas been completed today:</b></string>
+    <string name="habit_view_display_completion"></string>
+
+    <string name="habit_view_complete">Complete the Habit</string>
+    <string name="habit_view_completions">View and Delete Completions</string>
+    <string name="go_back">Return</string>
+
+    <string name="instructions"><b>Click on a completion day to delete it</b></string>
+</resources>

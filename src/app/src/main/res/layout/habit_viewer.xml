@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/NameTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="@string/habit_view_name" />
+
+    <TextView
+        android:id="@+id/HabitName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/habit_view_display_name" />
+
+    <TextView
+        android:id="@+id/Date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="@string/habit_view_date" />
+
+    <TextView
+        android:id="@+id/DateGiven"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/habit_view_display_date" />
+
+    <TextView
+        android:id="@+id/Days"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="@string/habit_view_days" />
+
+    <TextView
+        android:id="@+id/DaysGiven"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/habit_view_display_days" />
+
+    <TextView
+        android:id="@+id/Count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="@string/habit_view_count" />
+
+    <TextView
+        android:id="@+id/CurrentCount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/habit_view_display_count" />
+
+    <TextView
+        android:id="@+id/hasBeenCompleted"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="@string/habit_view_completion" />
+
+    <TextView
+        android:id="@+id/isCompleted"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/habit_view_display_completion" />
+
+    <Button
+        android:id="@+id/addCount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/habit_view_complete" />
+
+    <Button
+        android:id="@+id/viewCount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/habit_view_completions" />
+
+    <Button
+        android:id="@+id/returnToList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/go_back" />
+
+</LinearLayout>

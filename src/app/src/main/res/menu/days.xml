@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/slot1"
+        app:showAsAction="ifRoom|withText"
+        android:title="Monday"
+        android:visible="true"/>
+    <item
+        android:id="@+id/slot2"
+        app:showAsAction="ifRoom|withText"
+        android:title="Tuesday"
+        android:visible="true"/>
+    <item
+        android:id="@+id/slot3"
+        app:showAsAction="ifRoom|withText"
+        android:title="Wednesday"
+        android:visible="true"/>
+    <item
+        android:id="@+id/slot4"
+        app:showAsAction="ifRoom|withText"
+        android:title="Thursday"
+        android:visible="true"/>
+    <item
+        android:id="@+id/slot5"
+        app:showAsAction="ifRoom|withText"
+        android:title="Friday"
+        android:visible="true"/>
+    <item
+        android:id="@+id/slot6"
+        app:showAsAction="ifRoom|withText"
+        android:title="Saturday"
+        android:visible="true"/>
+    <item
+        android:id="@+id/slot7"
+        app:showAsAction="ifRoom|withText"
+        android:title="Sunday"
+        android:visible="true"/>
+</menu>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/completionInfo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:text="@string/instructions" />
+
+    <ListView
+        android:id="@+id/allCompletions"
+        android:layout_width="fill_parent"
+        android:layout_height="263dp"
+        android:layout_weight="1"
+        android:scrollbars="vertical" >
+    </ListView>
+
+    <Button
+        android:id="@+id/returnToHabit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/done"/>
+
+</LinearLayout>

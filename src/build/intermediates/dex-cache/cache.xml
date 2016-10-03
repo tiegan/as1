@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_8822746a9411bf300817cb9f33fed108dc48da02.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.0_0ab06a5d6d8d58bee6e1996b1fdf5e6fb82bc0e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.0_1345ef8a3ba95baa60dc4cb10924aab1caa5edd5.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.0_63d702dd70ee3982efad719063ee86bce11e7531.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_07993e2242fef927fd7d789d1c543a88c83ae319.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.0_0cb3591c385cb77a1746b248e511b922a65caa06.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.0_e7e5c9cdbfda3e96ea933f6d74990961532b4afb.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_7acc20ef23b08839a5f8ac6eb56f151fd6db51e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.0_84bf3720a1a3cae23c7883cd81b03cd55bd39801.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\gson-2.7_4d6f15f161617af5f4e4002062ea75a063805378.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_bde503e2f1249ba00ce6ccbbdb97f7be29d23ae7.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.0_6db7a9c710000b98e69f897215f31bd03e5958fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.0_bd08813dd4e5b1ef716c8b24f0cdbe9bdcecaf04.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.0_126e099882da38a7cc09b7786330928a1e7ceb29.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_407e4c9f568541931b60e35938ad8ec5a097f445.jar" />
+    </item>
+    <item
+        jar="C:\Users\~Kilza~\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\~Kilza~\AndroidStudioProjects\tiegan-HabitTracker\app\build\intermediates\pre-dexed\release\support-annotations-24.2.0_dba414bccfc8be392f5991b9ed0df4e6a745240a.jar" />
+    </item>
+
+</items>
